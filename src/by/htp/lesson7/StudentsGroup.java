@@ -2,9 +2,6 @@ package by.htp.lesson7;
 
 public class StudentsGroup {
 
-	//add unlimited number of students
-	//print all students from group to console
-	
 	private Student[] students;
 	private int studentsCounter;
 	private int MaxCounter;
